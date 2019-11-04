@@ -1,0 +1,13 @@
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Resources.resources
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.UserControl1.resources
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.GenerateResource.cache
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbproj.CoreCompileInputs.cache
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.xml
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.xml
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\ComProj\TicTacToeGui\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.vbprojAssemblyReference.cache
